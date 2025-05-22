@@ -8,8 +8,8 @@
     {
       "name": "ClasificarMensaje",
       "description": "Clasifica el tipo de mensaje del usuario",
-      "endpointUrl": "https://copilotstudio.microsoft.com/skills/clasificador-mensajes", 
-      "msAppId": "91cd5976-b76a-45bd-adc3-5a8567fde210",
+      "endpointUrl": "https://tudominio.com/api/messages",
+      "msAppId": "tu-msAppId",
       "authentication": {
         "type": "None"
       }
