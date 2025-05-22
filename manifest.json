@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schemas.botframework.com/schemas/skills/v2/skill-manifest.json",
+  "name": "ClasificadorDeMensajes",
+  "id": "clasificador-mensajes",
+  "version": "1.0",
+  "description": "Skill para clasificar mensajes en saludo, despedida, agradecimiento, pregunta, instrucción o desconocido.",
+  "endpoints": [
+    {
+      "name": "ClasificarMensaje",
+      "description": "Clasifica el tipo de mensaje del usuario",
+      "endpointUrl": "https://copilotstudio.microsoft.com/skills/clasificador-mensajes", 
+      "msAppId": "91cd5976-b76a-45bd-adc3-5a8567fde210",
+      "authentication": {
+        "type": "None"
+      }
+    }
+  ]
+}
