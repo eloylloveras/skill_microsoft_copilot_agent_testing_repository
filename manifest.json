@@ -8,7 +8,7 @@
     {
       "name": "ClasificarMensaje",
       "description": "Clasifica el tipo de mensaje del usuario",
-      "endpointUrl": "https://copilotstudio.microsoft.com/api/messages",
+      "endpointUrl": "https://copilotstudio.microsoft.com/api/messages", 
       "msAppId": "91cd5976-b76a-45bd-adc3-5a8567fde210",
       "authentication": {
         "type": "None"
